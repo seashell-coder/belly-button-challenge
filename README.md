@@ -44,7 +44,7 @@ Content of the repository
 
 <h3>Step5: Update all the plots when a new sample is selected. Additionally, you are welcome to create any layout that you would like for your dashboard. An example dashboard is shown as follows:</h3><br/>
 
-
+![image](https://seashell-coder.github.io/belly-button-challenge/Belly-Button-final-output.jpg)
 
 
 
